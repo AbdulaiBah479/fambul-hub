@@ -1,0 +1,12 @@
+{
+  "name": "Fambul Hub",
+  "short_name": "Fambul Hub",
+  "description": "Verified opportunities and skills portfolios for Sierra Leonean youth.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF7F0",
+  "theme_color": "#1EB53A",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
